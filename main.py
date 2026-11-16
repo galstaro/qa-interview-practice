@@ -72,8 +72,8 @@ def is_balanced(s: str) -> bool:
                 seen.pop(-1)
             else:
                 return False
-    # removed == 0
-    return len(seen)
+    
+    return len(seen) == 0
 
 
 def merge_sorted(a: list[int], b: list[int]) -> list[int]:
