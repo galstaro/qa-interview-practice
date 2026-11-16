@@ -1,0 +1,4 @@
+2026-11-15 10:00:01 ERROR 10.0.0.5 Connection refused
+2026-11-15 10:00:02 INFO 10.0.0.7 Device discovered
+2026-11-15 10:00:05 WARNING 10.0.0.5 High latency
+2026-11-15 10:00:09 ERROR 10.0.0.9 Timeout
